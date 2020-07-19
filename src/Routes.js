@@ -5,7 +5,7 @@ import SecondPage from './components/second-page/second-page';
 const Routes = () => {
     return(
     <BrowserRouter>
-       < Switch>
+       <Switch>
        <Route path="/" exact component={FirstPage}/>
          <Route path="/SecondPage" exact component={SecondPage}/>
 
