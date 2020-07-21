@@ -10,7 +10,7 @@ import './second-page.css';
   <div className="projects-grid">
     <a
       href="https://codepen.io/lordbryce09/pen/YzyMJjX"
-      target="_blank"
+      
       className="project project-tile"
     >
       <img
@@ -26,7 +26,7 @@ import './second-page.css';
     </a>
     <a
       href="https://codepen.io/lordbryce09/pen/PoPggzx"
-      target="_blank"
+      
       className="project project-tile"
     >
       <img
@@ -42,7 +42,7 @@ import './second-page.css';
     </a>
     <a
       href="https://codepen.io/lordbryce09/pen/RwWOdbG"
-      target="_blank"
+      
       className="project project-tile"
     >
       <img
@@ -58,7 +58,7 @@ import './second-page.css';
     </a>
     <a
       href="https://codepen.io/lordbryce09/pen/gOaJYGa"
-      target="_blank"
+      
       className="project project-tile"
     >
       <img
@@ -74,7 +74,7 @@ import './second-page.css';
     </a>
     <a
       href="https://codepen.io/freeCodeCamp/full/wGqEga"
-      target="_blank"
+      
       className="project project-tile"
     >
       <img
@@ -90,7 +90,7 @@ import './second-page.css';
     </a>
     <a
       href="https://codepen.io/freeCodeCamp/full/KzXQgy"
-      target="_blank"
+      
       className="project project-tile"
     >
       <img
@@ -109,7 +109,7 @@ import './second-page.css';
   <a
     href="https://codepen.io/FreeCodeCamp/"
     className="btn btn-show-all"
-    target="_blank"
+    
     >Show all<i className="fas fa-chevron-right"></i
   ></a>
 </section>

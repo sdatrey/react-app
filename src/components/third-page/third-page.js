@@ -11,20 +11,20 @@ function ThirdPage() {
   <div className="contact-links">
     <a
       href="https://web.facebook.com/MensaIsaac?ref=bookmarks"
-      target="_blank"
+     
       className="btn contact-details"
       ><i className="fab fa-facebook-square"></i> Facebook</a
     >
     <a
       id="profile-link"
       href="https://github.com/freecodecamp"
-      target="_blank"
+     
       className="btn contact-details"
       ><i className="fab fa-github"></i> GitHub</a
     >
     <a
       href="https://twitter.com/IsaacMensah2"
-      target="_blank"
+     
       className="btn contact-details"
       ><i className="fab fa-twitter"></i> Twitter</a
     >
